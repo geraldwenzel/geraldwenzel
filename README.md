@@ -1,4 +1,6 @@
-# About
+<!-- markdownlint-disable -->
+
+## About
 
 I am a Web3 security engineer based in New York City. I provide the following services:
 
